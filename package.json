@@ -1,0 +1,9 @@
+{
+  "name": "rabbit",
+  "version": "0.0.1",
+  "description": "rabbit",
+  "main": "index.js",
+  "repository": "git@github.com:iJustCC/rabbit.git",
+  "author": "Otto <fa@ijust.cc>",
+  "license": "MIT"
+}
